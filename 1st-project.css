@@ -8,7 +8,7 @@ html, body {
 
 /* ===== Page Background ===== */
 body {
-    background-image: url("images/markus-spiske-hbb6GkG6p9M-unsplash.jpg");
+    background-image: url("markus-spiske-hbb6GkG6p9M-unsplash.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -28,7 +28,7 @@ body {
 /* ===== Result Container ===== */
 .container {
     background: rgba(255, 255, 255, 0.95);
-    background-image: url("images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg");
+    background-image: url("alexandre-debieve-FO7JIlwjOtU-unsplash.jpg");
     max-width: 500px;
     width: 90%;
     padding: 30px 20px;
